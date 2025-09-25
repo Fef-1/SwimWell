@@ -42,6 +42,4 @@ sql/
 
 looker/
 
-├── dashboard_screenshots/        – Key dashboard views
-
 └── README.md                     – How to access Looker (view-only link)
